@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=pathFILE\ text
+comment0.target=StageTwo(java.lang.String,\ java.lang.String)
+comment1.params=text
+comment1.target=void\ newText(java.lang.String)
+comment2.params=pathFILE
+comment2.target=java.io.BufferedReader\ constructStuffs(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ Encrypt()
+comment4.params=
+comment4.target=void\ printEncryptionScreen()
+comment5.params=
+comment5.target=java.lang.String\ Decrypt()
+comment6.params=
+comment6.target=void\ printDecryptScreen()
+numComments=7

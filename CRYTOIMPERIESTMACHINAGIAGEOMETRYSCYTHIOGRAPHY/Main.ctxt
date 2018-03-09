@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=Main(java.lang.String)
+comment1.params=input
+comment1.target=void\ newString(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ Encrypt()
+comment3.params=
+comment3.target=java.lang.String\ Decrypt()
+comment4.params=
+comment4.target=void\ PrintSlip()
+numComments=5

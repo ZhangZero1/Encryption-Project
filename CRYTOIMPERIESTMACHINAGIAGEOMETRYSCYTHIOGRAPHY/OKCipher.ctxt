@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=input\ seed
+comment0.target=OKCipher(java.lang.String,\ int[])
+comment1.params=
+comment1.target=void\ printCrap()
+comment2.params=input
+comment2.target=java.lang.String\ garbageAdder(java.lang.String)
+comment3.params=input
+comment3.target=java.lang.String\ garbageSubber(java.lang.String)
+comment4.params=input\ num
+comment4.target=java.lang.String\ shift(java.lang.String,\ int)
+comment5.params=input
+comment5.target=java.lang.String\ AlmostEncrypt(java.lang.String)
+comment6.params=input
+comment6.target=char\ almostDecrypt(java.lang.String)
+comment7.params=input
+comment7.target=java.lang.String\ Decrypt(java.lang.String)
+comment8.params=input
+comment8.target=java.lang.String\ encrypt(java.lang.String)
+numComments=9
